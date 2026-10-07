@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock",
+  "description": "Two-device study-focus parental control system helping students stay away from distracting apps during study sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
